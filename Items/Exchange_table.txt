@@ -1,0 +1,198 @@
+
+|------------------------------|
+|   _____________
+|   |NATURE RUNE|
+|   -------------
+|      TODAY
+|   Nature Rune: 386gp
+|
+|     IC/DC: 5gp [1%]
+|
+|       WEEK
+|   Nature Rune: 387gp
+|
+|     IC/DC: -1gp [0%]
+|
+|       MONTH
+|   Nature Rune: 407gp
+|
+|     IC/DC: -21gp [-5%]
+|
+|       THREE MONTHS
+|   Nature Rune: 309gp
+|
+|     IC/DC: 77gp [24%]
+|
+|       SIX MONTHS
+|   Nature Rune: 219gp
+|
+|     IC/DC: 167gp [76%]
+|------------------------------|
+|   _____________
+|   |FIRE RUNE  |
+|   -------------
+|      TODAY
+|   Fire Rune: 70gp
+|
+|     IC/DC: -2gp [-2%]
+|
+|       WEEK
+|   Fire Rune: 78gp
+|
+|     IC/DC: -8gp [-10%]
+|
+|       MONTH
+|   Fire Rune: 95gp
+|
+|     IC/DC: -25gp [-26%]
+|
+|       THREE MONTHS
+|   Fire Rune: 74gp
+|
+|     IC/DC: -4gp [-5%]
+|
+|       SIX MONTHS
+|   Fire Rune: 63gp
+|
+|     IC/DC: 7gp [11%]
+|------------------------------|
+|   ________________
+|   |RUNE PLATEBODY|
+|   ----------------
+|      TODAY
+|   Rune Platebody:37680gp
+|
+|     IC/DC: 155gp [0%]
+|
+|       WEEK
+|   Rune Platebody:37728gp
+|
+|     IC/DC: -48gp [0%]
+|
+|       MONTH
+|   Rune Platebody:37717gp
+|
+|     IC/DC: -37gp [0%]
+|
+|       THREE MONTHS
+|   Rune Platebody:38063gp
+|
+|     IC/DC: -383gp [-1%]
+|
+|       SIX MONTHS
+|   Rune Platebody: 38102gp
+|
+|     IC/DC: -422gp [-1%]
+|------------------------------|
+|   ________________
+|   |RUNE CHAINBODY|
+|   ----------------
+|      TODAY
+| Rune Chainbody:28876gp
+|
+|     IC/DC: 89gp [0%]
+|
+|       WEEK
+| Rune Chainbody:28845gp
+|
+|     IC/DC: 31gp [0%]
+|
+|       MONTH
+| Rune Chainbody:28917gp
+|
+|     IC/DC: -41gp [0%]
+|
+|       THREE MONTHS
+| Rune Chainbody: 28975gp
+|
+|     IC/DC: -99gp [0%]
+|
+|       SIX MONTHS
+| Rune Chainbody: 29158gp
+|
+|     IC/DC: -282gp [0%]
+|------------------------------|
+|   ________________
+|   |RUNE FULL HELM|
+|   ----------------
+|      TODAY
+| Rune full helm:19775gp
+|
+|     IC/DC: -12gp [0%]
+|
+|       WEEK
+| Rune full helm:19744gp
+|
+|     IC/DC: 31gp [0%]
+|
+|       MONTH
+| Rune full helm:19917gp
+|
+|     IC/DC: -142gp [0%] 
+|
+|       THREE MONTHS
+| Rune full helm: 20113gp
+|
+|     IC/DC: -338gp [-1%]
+|
+|       SIX MONTHS
+| Rune full helm: 20263gp
+|
+|     IC/DC: -488gp [-2%]
+|------------------------------|
+|   ________________
+|   |RUNE PLATELEGS|
+|   ----------------
+|      TODAY
+| Rune Platelegs:36892gp
+|
+|     IC/DC: 54gp [0%]
+|
+|       WEEK
+| Rune Platelegs:36830gp
+|
+|     IC/DC: 62gp [0%]
+|
+|       MONTH
+| Rune Platelegs:37135gp
+|
+|     IC/DC: -243gp [0%]
+|
+|       THREE MONTHS
+| Rune Platelegs: 37370gp
+|
+|     IC/DC: -478gp [-1%]
+|
+|       SIX MONTHS
+| Rune Platelegs: 37460gp
+|
+|     IC/DC: -568gp [-1%]
+|------------------------------|
+|   ___________
+|   |RUNE HELM|
+|   -----------
+|      TODAY
+|   Rune helm: 	 10626gp
+|
+|     IC/DC: 42gp [0%]
+|
+|       WEEK
+|   Rune helm: 	 10465gp
+|
+|     IC/DC: 161gp [1%]
+|
+|       MONTH
+|   Rune helm: 	 10564gp
+|
+|     IC/DC: 62gp [0%]
+|
+|       THREE MONTHS
+|   Rune helm: 10567gp
+|
+|     IC/DC: 59gp [0%]
+|
+|       SIX MONTHS
+|   Rune helm: 10749gp
+|
+|     IC/DC: -123gp [-1%]
+|------------------------------|
